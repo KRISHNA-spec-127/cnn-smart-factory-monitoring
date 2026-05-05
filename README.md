@@ -58,4 +58,4 @@ The proposed model demonstrates high stability with minimal overfitting and outp
 * `src/` → training code
 * `models/` → saved CNN model (.h5)
 * `report/` → dissertation/report
-* `results/` → output graphs (optional)
+* `results/` → output graphs
