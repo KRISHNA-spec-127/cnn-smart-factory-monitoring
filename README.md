@@ -7,6 +7,7 @@ This project presents a Convolutional Neural Network (CNN)-based system for real
 ##  Dataset
 
 * NEU Surface Defect Dataset
+  [https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database]
 * 1,800 grayscale images
 * 6 defect classes:
 
