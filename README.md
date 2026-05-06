@@ -22,7 +22,7 @@ This project presents a Convolutional Neural Network (CNN)-based system for real
 
 * Custom CNN with:
 
-  * Convolutional layers + ReLU activation
+  * Convolutional layers
   * Max-pooling layers
   * Fully connected dense layers
   * Softmax output layer
@@ -56,7 +56,7 @@ The proposed model demonstrates high stability with minimal overfitting and outp
 
 ##  Project Structure
 
-* `src/` → training code
-* `models/` → saved CNN model (.h5)
-* `report/` → dissertation/report
-* `results/` → output graphs
+*  src/ → training code
+*  dataset/ → saved CNN model (.h5)
+*  report/ → dissertation/report
+*  results/ → output graphs
